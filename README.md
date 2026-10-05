@@ -278,4 +278,5 @@ The `art_medium_dataset` directory contains the materials submitted for Phase 1:
 This repository represents an academic mini-project. The dataset and methods are intended for educational and experimental purposes. Classification performance in later phases may be affected by dataset size, class characteristics, source bias and variations in artwork style and image acquisition.
 
 *Author*
+
 *Rekha Dhorigol*

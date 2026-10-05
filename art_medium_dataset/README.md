@@ -149,4 +149,5 @@ Possible improvements and extensions include:
 **Dataset Size:** 125 images across 5 categories
 
 *Author*
+
 *Rekha Dhorigol*
