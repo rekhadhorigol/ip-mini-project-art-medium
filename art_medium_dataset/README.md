@@ -145,7 +145,9 @@ Possible improvements and extensions include:
 ---
 
 **Project:** Art Medium Classification - IP Mini Project
+
 **Phase:** Phase 1 – Dataset Collection, Validation & Preprocessing
+
 **Dataset Size:** 125 images across 5 categories
 
 *Author*
