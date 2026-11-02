@@ -1,0 +1,5 @@
+Feature Extraction,Classifier / Method,Accuracy (%)
+Harris Corner,SVM,24.0
+Harris Corner,Cosine Similarity,20.0
+SIFT,SVM,52.0
+SIFT,Cosine Similarity,48.0

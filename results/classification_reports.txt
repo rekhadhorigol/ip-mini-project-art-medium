@@ -1,0 +1,28 @@
+RESNET-18 CLASSIFICATION REPORT
+
+              precision    recall  f1-score   support
+
+    graphite       1.00      0.25      0.40         4
+         ink       0.44      1.00      0.62         4
+         oil       0.50      0.50      0.50         4
+      pastel       0.67      0.50      0.57         4
+ watercolour       0.50      0.33      0.40         3
+
+    accuracy                           0.53        19
+   macro avg       0.62      0.52      0.50        19
+weighted avg       0.63      0.53      0.50        19
+
+
+MViT V2-S CLASSIFICATION REPORT
+
+              precision    recall  f1-score   support
+
+    graphite       0.40      0.50      0.44         4
+         ink       0.40      0.50      0.44         4
+         oil       0.50      0.50      0.50         4
+      pastel       0.75      0.75      0.75         4
+ watercolour       0.00      0.00      0.00         3
+
+    accuracy                           0.47        19
+   macro avg       0.41      0.45      0.43        19
+weighted avg       0.43      0.47      0.45        19

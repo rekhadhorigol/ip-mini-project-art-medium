@@ -140,7 +140,7 @@ Possible improvements and extensions include:
 * Expanding the dataset with more images from diverse sources.
 * Improving source diversity across all art-medium categories.
 * Supporting indexed-colour images with appropriate colour-map handling if additional image formats are introduced.
-* Exploring suitable image features and classification techniques in subsequent project phases.
+* Exploring additional feature extraction and classification techniques in future extensions of the project.
 
 ---
 
