@@ -104,8 +104,6 @@ ip-mini-project-art-medium/
 └── .gitignore
 ```
 
-The notebook and results filenames shown above are the recommended organization. Adjust them to match the actual filenames in the repository.
-
 ---
 
 # 4. Phase 1 – Dataset Collection and Preprocessing
